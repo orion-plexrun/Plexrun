@@ -48,18 +48,17 @@ plexrun run research_pipeline --input '{"topic": "AI in healthcare"}'
  
 # View live logs
 plexrun logs <run-id>
-Status
-Component
-Status
-Python SDK
-Alpha
-CLI
-Alpha
-TypeScript SDK
-In progress
-Dashboard
-In progress
-Currently in private beta. Join the waitlist →
+
+## Status
+
+| Component      | Status      |
+|----------------|-------------|
+| Python SDK     | Alpha       |
+| CLI            | Alpha       |
+| TypeScript SDK | In progress |
+| Dashboard      | In progress |
+
+Currently in private beta. [Join the waitlist →](https://plexrun.com/#waitlist)
 
 Links
 Website: plexrun.com
